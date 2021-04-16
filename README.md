@@ -1,5 +1,5 @@
 # [Re] Parameterized Explainer for Graph Neural Networks
-**This is the anonymized version of the code repository of a replication study of the paper _Parameterized Explainer for Graph Neural Networks_. If accepted, this repository will be made public.**
+**Authors**: Maarten Boon, Stijn Henckens, [Lars Holdijk](https://www.larsholdijk.com/) and Lysander de Jong
 
 This repository contains all code required to replicate our replication study of the paper _Parameterized Explainer for Graph Neural Networks_[1]. This includes both a new implementation of the PGExplainer method introduced as well as a reimplementation of the earlier introduced GNNExplainer [2], which serves as a benchmark in the evaluation. In addition to this, the repository contains the datasets and pretrained models needed for a faithfull replication.
 
