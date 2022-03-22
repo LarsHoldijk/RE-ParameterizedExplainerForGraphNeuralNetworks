@@ -5,6 +5,16 @@ This repository contains all code required to replicate our replication study of
 
 In addition to ipython notebooks for replicating our study, the repository also contains an example that shows how our codebase can be used for your own experiments. This example also serves as a good starting point for understanding how the replication study is performed.
 
+**bibtex citation**
+```
+@inproceedings{holdijk2021re,
+  title={[Re] Parameterized Explainer for Graph Neural Network},
+  author={Holdijk, Lars and Boon, Maarten and Henckens, Stijn and de Jong, Lysander},
+  booktitle={ML Reproducibility Challenge 2020},
+  year={2021}
+}
+```
+
 ## IPython Notebooks
 Four IPython Notebooks are availabe to replicate our experiments
 
